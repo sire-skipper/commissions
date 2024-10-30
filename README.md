@@ -1,6 +1,6 @@
 # Skipper's Academic Commissions
 
-*Updates*
+# *Updates*
 
 **Pilot Gear Hub:**
 
