@@ -4,7 +4,7 @@
 
 ### <font color="red">Pilot Gear Hub:</font>
 
-✔️__*complete:*__
+:heavy_check_mark:__*complete:*__
 - login page
 - sign up page
 - reset password
