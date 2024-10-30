@@ -2,14 +2,14 @@
 
 ## *Updates*
 
-### **Pilot Gear Hub:**
+### <font color="red">**Pilot Gear Hub:**</font>
 
-*complete:*
+__*complete:*__
 - login page
 - sign up page
 - reset password
  
-*to do:*
+__*to do:*__
 - home page
 - equipment description / detail
 - video tutorial
