@@ -1,8 +1,8 @@
 # Skipper's Academic Commissions
 
-# *Updates*
+## *Updates*
 
-**Pilot Gear Hub:**
+### **Pilot Gear Hub:**
 
 *complete:*
 - login page
