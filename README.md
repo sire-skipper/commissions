@@ -10,7 +10,11 @@
 - reset password
  
 :bulb: __*to do:*__
-- home page
 - equipment description / detail
 - video tutorial
 - account profile
+
+:chart_with_upwards_trend: __*in progress:*__
+- home page
+
+### Avilink next
