@@ -8,6 +8,7 @@
 - login page
 - sign up page
 - reset password
+- equipment description / detail
  
 :bulb: __*to do:*__
 - equipment description / detail
@@ -16,5 +17,6 @@
 
 :chart_with_upwards_trend: __*in progress:*__
 - home page
+- video tutorial
 
 ### Avilink next
