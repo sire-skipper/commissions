@@ -5,12 +5,6 @@
 ### <font color="red">Pilot Gear Hub:</font>
 
 :heavy_check_mark: __*complete:*__
-- login page
-- sign up page
-- reset password
-- equipment description / detail
-- home page
-- profile
 
 ### Avilink:
 
@@ -25,11 +19,3 @@
 
 :chart_with_upwards_trend: __*in progress:*__
 - search page
-
-### Student:
-
-:bulb: __*to do:*__
-- login
-- register
-- profile
-- dashboard
