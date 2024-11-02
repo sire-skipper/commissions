@@ -10,11 +10,6 @@
 - reset password
 - equipment description / detail
 - home page
- 
-:bulb: __*to do:*__
-- account profile
-
-:chart_with_upwards_trend: __*in progress:*__
 - profile
 
 ### Avilink:
