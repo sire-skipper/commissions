@@ -8,14 +8,4 @@
 
 ### Avilink:
 
-:heavy_check_mark: __*complete:*__
-- login page
-- sign up page
-
-:bulb: __*to do:*__
-- search page
-- travel booking form
-- invoice
-
-:chart_with_upwards_trend: __*in progress:*__
-- search page
+<a>https://drive.google.com/file/d/1-1yAfsuuZptL6_IRCGtxrMn66G8HNxfi/view?usp=sharing</a>
